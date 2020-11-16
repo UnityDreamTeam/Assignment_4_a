@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 3153658896494269428}
   - component: {fileID: -8155820910521951882}
   - component: {fileID: -7990677537640266774}
-  - component: {fileID: -7265036433424932869}
   m_Layer: 0
   m_Name: heart
   m_TagString: Heart
@@ -144,18 +143,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocity: {x: 0, y: -10, z: 0}
---- !u!114 &-7265036433424932869
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3468767439423113985}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7b571bdbf83e603449e50749327e251f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  triggeringTag: Player
-  HealTag: 
-  life: 0

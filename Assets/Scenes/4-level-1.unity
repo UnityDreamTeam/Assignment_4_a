@@ -528,8 +528,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 945324278}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.115, y: -0.05, z: 1}
-  m_LocalScale: {x: 1.9126194, y: 1.4714665, z: 0.9528718}
+  m_LocalPosition: {x: -0.02, y: -0, z: 1}
+  m_LocalScale: {x: 1.9547515, y: 1.5642216, z: 0.9528718}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
@@ -609,7 +609,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 982078730}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.62, y: -4.36, z: 0}
+  m_LocalPosition: {x: -7.66, y: -5.2, z: 0}
   m_LocalScale: {x: 0.5723955, y: 0.46139693, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -822,12 +822,12 @@ PrefabInstance:
     - target: {fileID: 8392271928695271266, guid: 76dd5d4eb2061104b9a72b003c24ce25,
         type: 3}
       propertyPath: minTimeBetweenSpawns
-      value: 3
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 8392271928695271266, guid: 76dd5d4eb2061104b9a72b003c24ce25,
         type: 3}
       propertyPath: maxTimeBetweenSpawns
-      value: 6
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 8392271928695271266, guid: 76dd5d4eb2061104b9a72b003c24ce25,
         type: 3}
@@ -917,7 +917,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1702912680}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.016, y: -4.356, z: 0}
+  m_LocalPosition: {x: -9.14, y: -5.2, z: 0}
   m_LocalScale: {x: 0.56088024, y: 0.43260163, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1211,12 +1211,12 @@ PrefabInstance:
     - target: {fileID: 8392271928695271266, guid: 76dd5d4eb2061104b9a72b003c24ce25,
         type: 3}
       propertyPath: minTimeBetweenSpawns
-      value: 3
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8392271928695271266, guid: 76dd5d4eb2061104b9a72b003c24ce25,
         type: 3}
       propertyPath: maxTimeBetweenSpawns
-      value: 6
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 8392271928695271266, guid: 76dd5d4eb2061104b9a72b003c24ce25,
         type: 3}
@@ -1362,7 +1362,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2023737905}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.2, y: -4.319, z: 0}
+  m_LocalPosition: {x: -6.16, y: -5.2, z: 0}
   m_LocalScale: {x: 0.5723955, y: 0.46139693, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1421,7 +1421,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 6.080866
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2

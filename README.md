@@ -1,31 +1,10 @@
-# Unity week 2: Formal elements
+# Assignment 4_a
+This week we've been ask to improve a given game which can be found in this repasetory.
+In this game we're playing a spacecraft who destroys its enemies during its spaces tavels.
+In the oiginal version the spaceship can shot lasers towards emeny ships. The lasers destory the enemies and the enemies
+destory our spaceship when collision occur.
 
-A project with step-by-step scenes illustrating some of the formal elements of game development in Unity, including: 
-
-* Prefabs for instantiating new objects;
-* Colliders for triggering outcomes of actions;
-* Coroutines for setting time-based rules.
-
-Text explanations are available 
-[here](https://github.com/erelsgl-at-ariel/gamedev-5780) in folder 06.
-
-NOTE: When you first open this project, you may not see the text in the score field.
-This is because TextMesh Pro is not in the project.
-The Unity Editor should hopefully prompt you to import TextMeshPro;
-once you do this, re-open the scenes, and you should be able to see the texts.
-
-## Credits
-
-Programming:
-* Maoz Grossman
-* Erel Segal-Halevi
-
-Online courses:
-* [The Ultimate Guide to Game Development with Unity 2019](https://www.udemy.com/the-ultimate-guide-to-game-development-with-unity/), by Jonathan Weinberger
-
-Graphics:
-* [Matt Whitehead](https://ccsearch.creativecommons.org/photos/7fd4a37b-8d1a-4d4c-80a2-4ca4a3839941)
-* [Kenney's space kit](https://kenney.nl/assets/space-kit)
-* [Ductman's 2D Animated Spacehips](https://assetstore.unity.com/packages/2d/characters/2d-animated-spaceships-96852)
-* [Franc from the Noun Project](https://commons.wikimedia.org/w/index.php?curid=64661575)
-* [Greek-arrow-animated.gif by Andrikkos is licensed under CC BY-SA 3.0](https://search.creativecommons.org/photos/2db102af-80d0-4ec8-9171-1ac77d2565ce)
+We've added an extra tryouts , which means that we need to touch 3 emenies in order to be disqualified.
+This extent to duration of the game and makes it a bit less frustrating. Also , we have added a special feature
+which is a floating hearts which gives you a tryout ( In the game we describe it as "life"). You can reach to
+3 lifes top.

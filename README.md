@@ -1,4 +1,5 @@
-# Assignment 4_a
+# Assignment 4_a  
+![build passing](https://img.shields.io/badge/build-passing-brightgreen) ![platform unity](https://img.shields.io/badge/platform-unity-red)  
 This week we've been ask to improve a given game which can be found in [this repasetory](https://github.com/gamedev-at-ariel/02-prefabs-triggers).
 In this game we're playing a spacecraft who destroys its enemies during its spaces tavels.
 In the oiginal version the spaceship can shot lasers towards emeny ships. The lasers destory the enemies and the enemies destory our spaceship when collision occur.

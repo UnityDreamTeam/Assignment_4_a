@@ -18,7 +18,7 @@ We've uploaded this game into our itch account, you are welcome to play it yours
 This is our Kanban board:
 ![](Images/jiraScreenshot.jpg)
 
-Edited scripts
-DestroyOnTrigger2D
-*Scene changes
+Edited scripts:<br/>
+DestroyOnTrigger2D<br/>
+*Scene changes<br/>
 (No new scripts)

@@ -7,6 +7,11 @@ TagManager:
   - Enemy
   - Laser
   - Wall
+  - Astroid
+  - Heart
+  - Heart1
+  - Heart2
+  - Heart3
   layers:
   - Default
   - TransparentFX

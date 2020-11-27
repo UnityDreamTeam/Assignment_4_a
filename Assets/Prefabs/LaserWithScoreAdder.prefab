@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -1515559938600826020}
   - component: {fileID: 6742800857908197687}
   - component: {fileID: -8433250894850022944}
-  - component: {fileID: -3242596646991089796}
+  - component: {fileID: 1271714297466411444}
   m_Layer: 0
   m_Name: LaserWithScoreAdder
   m_TagString: Laser
@@ -58,6 +58,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -132,7 +133,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &-3242596646991089796
+--- !u!114 &1271714297466411444
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -145,5 +146,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggeringTag: Enemy
-  textField: {fileID: 0}
+  scoreField: {fileID: 0}
   pointsToAdd: 1
